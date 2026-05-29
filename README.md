@@ -1,6 +1,19 @@
+<h5># cn-text.github.io
+<br>cn-text.github.io
+<br>
+<br>Android_7Z:
+<br>https://github.com/cn-text/cn-text.github.io/releases/download/Android/ZArchiver_1.0.8_2023-07-22_ru.zdevs.zarchiver.apk
+<br>
+<br>https://github.com/cn-text/cn-text.github.io/releases/download/CNText01/cn-text_HTML_20_ALL_2024-03-01.7z
+<br>https://github.com/cn-text/cn-text.github.io/releases/download/CNText01/cn-text_HTML_10_View_00_PIC.7z
+<br>https://github.com/cn-text/cn-text.github.io/releases/download/CNText01/cn-text_HTML_10_View_00_PIC_X2.7z
+<br>https://github.com/cn-text/cn-text.github.io/releases/download/CNText01/cn-text_HTML_10_View_01_HTML.7z
+<br>https://github.com/cn-text/cn-text.github.io/releases/download/CNText01/cn-text_HTML_21_Audio.7z
+<br>https://github.com/cn-text/cn-text.github.io/blob/main/FLDF_HTML_Portable/FLDF_HTML_Portable.7z
+<br>https://github.com/cn-text/cn-text.github.io/releases/download/CNText00/FLDF_HTML_Portable_2023-01-29.7z
+</h5>
 <h3>========================================
 <br>$\textsf{\color{red   }{[全世界都][给我][24小时][不停的][做这个]：}}$
-<br>
 <br>看图，这是示范模特：
 <br>
 <img alt="IMG_20260529_212847"			width="260"	height="195"	src="https://github.com/user-attachments/assets/f0453e73-bcd3-426b-b8ab-def5a4995012" />
